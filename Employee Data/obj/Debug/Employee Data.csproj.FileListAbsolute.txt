@@ -1,0 +1,30 @@
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee Data.csprojResolveAssemblyReference.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee_Data.MainForm.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee_Data.Properties.Resources.resources
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.GenerateResource.Cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\maxma\Flashdrive Backup\College Stuff\CIS 2324.252 - SP18\Textbook Coding Projects\Employee Data\Employee Data\obj\Debug\Employee Data.pdb
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee_Data.MainForm.resources
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee_Data.Properties.Resources.resources
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\gusta\Documents\COP2551\gaddis-visualcsharp2017-projects-master\Employee Data\Employee Data\obj\Debug\Employee Data.pdb
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee Data.csproj.AssemblyReference.cache
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee_Data.MainForm.resources
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee_Data.Properties.Resources.resources
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee Data.csproj.GenerateResource.cache
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee Data.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\gusta\Documents\COP2551\Project7_Gustavo_Yepez\Employee Data\obj\Debug\Employee Data.pdb
